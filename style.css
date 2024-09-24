@@ -1,0 +1,20 @@
+body {
+  background-color: #121212;
+  color: #ffffff;
+  font-family: "Arial", sans-serif;
+}
+
+video {
+  border: 2px solid #ffffff;
+  border-radius: 10px;
+}
+
+#output {
+  font-size: 1.5rem;
+  margin-top: 20px;
+}
+
+h1,
+h2 {
+  color: #00ff00; /* Neon green color for headers */
+}
