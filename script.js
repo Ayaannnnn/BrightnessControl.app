@@ -58,3 +58,4 @@ function detectHand(model) {
       console.error("Error accessing camera:", err);
     });
 }
+
